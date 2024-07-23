@@ -1,6 +1,6 @@
 # Assistenzsystem für Verpressung
 
-Hello, World!
+Programmierung eines ABB YuMi-Dualarm-Roboters zur Verpressung von Kleinstteilen in Gummiverdichtungen. 
 
 ## QuickStart
 
