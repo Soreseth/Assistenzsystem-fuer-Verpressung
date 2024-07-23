@@ -1,2 +1,0 @@
-# Assistenzsystem für Verpressung
--r "./requirements/requirements.txt"
